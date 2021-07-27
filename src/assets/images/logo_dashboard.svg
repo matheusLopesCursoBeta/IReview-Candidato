@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="186.014" height="72.852" viewBox="0 0 186.014 72.852">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.49" y1="0.284" x2="0.891" y2="1.944" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#09797a"/>
+      <stop offset="0.479" stop-color="#7bc7ca"/>
+    </linearGradient>
+  </defs>
+  <g id="Logo" transform="translate(26.183 22.005)">
+    <g id="Isometric" transform="translate(0 2.668)">
+      <path id="Path_73" data-name="Path 73" d="M29.823,8.637,14.96,17.275,0,8.638,14.863,0Z" transform="translate(29.823 20.389) rotate(-180)" opacity="0.75" fill="url(#linear-gradient)"/>
+      <path id="Path_74" data-name="Path 74" d="M22.187,6.426,11.13,12.852,0,6.426,11.057,0Z" transform="translate(26.004 18.179) rotate(-180)" fill="rgba(118,92,233,0.5)" opacity="0.56"/>
+      <path id="Path_75" data-name="Path 75" d="M14.87,0l-.009,3.113L0,11.753.008,8.64Z" transform="translate(14.871 11.754) rotate(-180)" fill="url(#linear-gradient)"/>
+      <path id="Path_76" data-name="Path 76" d="M14.968,8.638,14.96,11.75,0,3.113.009,0Z" transform="translate(29.831 11.75) rotate(-180)" fill="url(#linear-gradient)"/>
+      <path id="Path_77" data-name="Path 77" d="M21.629,6.264,10.85,12.527,0,6.263,10.778,0Z" transform="translate(25.726 26.245) rotate(-180)" fill="#7fd0ff" opacity="0.75"/>
+      <path id="Path_78" data-name="Path 78" d="M10.787,0l-.009,3.113L0,9.376.009,6.263Z" transform="translate(14.885 19.982) rotate(-180)" fill="#2f8eed"/>
+      <path id="Path_79" data-name="Path 79" d="M10.858,6.265,10.85,9.377,0,3.113.009,0Z" transform="translate(25.733 19.983) rotate(-180)" fill="#6fb6ff"/>
+      <path id="Ellipse_14" data-name="Ellipse 14" d="M10.768,2.835c0,1.566-2.411,2.835-5.384,2.835S0,4.4,0,2.835,2.411,0,5.384,0,10.768,1.269,10.768,2.835Z" transform="translate(20.218 23.11) rotate(-180)" fill="rgba(118,92,233,0.5)" opacity="0.5"/>
+      <path id="Path_94" data-name="Path 94" d="M18.9,1.506,16.187,3.037c-.907.507-1.8,1.032-2.7,1.548L10.853,6.1,8.206,4.585C7.3,4.069,6.4,3.544,5.483,3.037L2.748,1.506C1.832,1,.921.495,0,0,.888.548,1.785,1.085,2.678,1.627l2.692,1.6c.9.537,1.8,1.056,2.7,1.583l2.64,1.539.138,2.1.138-2.1L13.61,4.81c.895-.528,1.8-1.046,2.685-1.583l2.674-1.6C19.855,1.084,20.746.55,21.626,0,20.717.495,19.811,1,18.9,1.506Z" transform="translate(25.718 9.376) rotate(-180)" fill="#fff" style="mix-blend-mode: lighten;isolation: isolate"/>
+    </g>
+    <text id="Comro." transform="translate(42.831)" fill="#0f3f62" font-size="26" font-family="WorkSans-ExtraBold, Work Sans" font-weight="800"><tspan x="0" y="24">IReview.</tspan></text>
+  </g>
+</svg>
